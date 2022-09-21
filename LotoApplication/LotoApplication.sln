@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotoApplication.Api", "LotoApplication.Api\LotoApplication.Api.csproj", "{30BB2D61-CF8C-43EF-B487-15852417034B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotoApplication.Infrastructure", "LotoApplication.Infrastructure\LotoApplication.Infrastructure.csproj", "{D5A7BD1E-4067-403D-BC91-5DD005A5421A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotoApplication.Domain", "LotoApplication.Domain\LotoApplication.Domain.csproj", "{7E6B0D22-2562-40CC-A8FC-007A54AE3913}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotoApplication.Application", "LotoApplication.Application\LotoApplication.Application.csproj", "{D92710AD-9B1F-497F-88D1-6DC3D4349F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotoApplication.UnitTests", "LotoApplication.UnitTests\LotoApplication.UnitTests.csproj", "{88FF3EC7-9D44-4B67-A157-A7B5B1811C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BB2D61-CF8C-43EF-B487-15852417034B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BB2D61-CF8C-43EF-B487-15852417034B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BB2D61-CF8C-43EF-B487-15852417034B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BB2D61-CF8C-43EF-B487-15852417034B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A7BD1E-4067-403D-BC91-5DD005A5421A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A7BD1E-4067-403D-BC91-5DD005A5421A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A7BD1E-4067-403D-BC91-5DD005A5421A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A7BD1E-4067-403D-BC91-5DD005A5421A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E6B0D22-2562-40CC-A8FC-007A54AE3913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6B0D22-2562-40CC-A8FC-007A54AE3913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6B0D22-2562-40CC-A8FC-007A54AE3913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6B0D22-2562-40CC-A8FC-007A54AE3913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92710AD-9B1F-497F-88D1-6DC3D4349F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92710AD-9B1F-497F-88D1-6DC3D4349F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92710AD-9B1F-497F-88D1-6DC3D4349F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92710AD-9B1F-497F-88D1-6DC3D4349F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FF3EC7-9D44-4B67-A157-A7B5B1811C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FF3EC7-9D44-4B67-A157-A7B5B1811C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FF3EC7-9D44-4B67-A157-A7B5B1811C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FF3EC7-9D44-4B67-A157-A7B5B1811C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF7B02E-8973-4E1A-B23E-C598B2746DE9}
+	EndGlobalSection
+EndGlobal

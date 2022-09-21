@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yB7x4s6cO7EtYE0VeVGMure4/eDdGTCxfsiMjdkL+qs=",
+  "Source": "LotoApplication.Api",
+  "BasePath": "_content/LotoApplication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
