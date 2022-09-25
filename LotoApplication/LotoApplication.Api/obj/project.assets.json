@@ -5548,11 +5548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Api\\LotoApplication.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Api\\LotoApplication.Api.csproj",
       "projectName": "LotoApplication.Api",
-      "projectPath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Api\\LotoApplication.Api.csproj",
+      "projectPath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Api\\LotoApplication.Api.csproj",
       "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Api\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5569,8 +5569,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Infrastructure\\LotoApplication.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Infrastructure\\LotoApplication.Infrastructure.csproj"
+            "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Infrastructure\\LotoApplication.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Infrastructure\\LotoApplication.Infrastructure.csproj"
             }
           }
         }

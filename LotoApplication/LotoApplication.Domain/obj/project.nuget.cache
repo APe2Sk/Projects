@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yezwLq3YjDD458WonXDG4Yo7hFeE/uHDbtDqsEAmHUhrG1OrlURT0Ndv3B4t5XxaTZ4W/heeXCY4PIqrSpgCdw==",
+  "dgSpecHash": "wRXtZ0X5U80+fncRTpmVfzQWZb2ozsM5nx0r4lb9IlEjafc2EYzYNCqdTO2SVn4L5AY+ShH1G4A2ItiTA7c7rQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Domain\\LotoApplication.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Domain\\LotoApplication.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

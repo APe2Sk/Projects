@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3BBbOQxYVUhchzrl2sgBkUdnowkoMUIRbY5LfIiG/hHrMsO2SNyEbbzj8dk2tCGq4x4HiP6ynHf/BAzC7/Hpdw==",
+  "dgSpecHash": "ttsQb2W/otTOi+DHZNALOptC4A1AoRpLCbdqJ4/mlBfDolgfJwAr8YqUnRFnuP453JTDqXKnvNoipLjhPosLEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Api\\LotoApplication.Api.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Api\\LotoApplication.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandar\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
     "C:\\Users\\Aleksandar\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",

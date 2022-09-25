@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tZ3m9I2ZvDoQkWUQ9bEIilu6fzACY/cy6TO9TdQZ2eTAiLzkYvW5kVWAJqX4HjZG9g47NrhV2fIo9kUitmooQw==",
+  "dgSpecHash": "yToBR4NSoHxAO18TU6dRnSv3avVw87eabovYzA044XK6GV8fc2iHBm+psjF00F62flAbgeeunBnRlFbbNL3cfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\LotoApplication\\LotoApplication.Application\\LotoApplication.Application.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandar\\Desktop\\Seavus - Web Development 2021\\WEB API Homework\\Projects\\LotoApplication\\LotoApplication.Application\\LotoApplication.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandar\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Aleksandar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

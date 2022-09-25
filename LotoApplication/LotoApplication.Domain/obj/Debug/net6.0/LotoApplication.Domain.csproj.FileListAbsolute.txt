@@ -10,3 +10,15 @@ C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\LotoA
 C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\refint\LotoApplication.Domain.dll
 C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.pdb
 C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\ref\LotoApplication.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\bin\Debug\net6.0\LotoApplication.Domain.deps.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\bin\Debug\net6.0\LotoApplication.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\bin\Debug\net6.0\LotoApplication.Domain.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\refint\LotoApplication.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\LotoApplication.Domain.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\LotoApplication\LotoApplication.Domain\obj\Debug\net6.0\ref\LotoApplication.Domain.dll

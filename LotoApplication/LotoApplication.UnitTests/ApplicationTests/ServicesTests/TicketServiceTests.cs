@@ -64,26 +64,70 @@ namespace LotoApplication.UnitTests.ApplicationTests.ServicesTests
             Assert.IsNotNull(ticketsResult);
         }
 
-        [TestMethod]
-        public void DeleteTicket_WithTicketIdAndUserId_Deletestiket()
-        {
-            var userId = 1;
-            var user = new User();
-            repoUser.Setup(x => x.GetById(userId)).Returns(user);
+        //[TestMethod]
+        //public void DeleteTicket_WithTicketIdAndUserId_Deletestiket()
+        //{
+        //    var userId = 1;
+        //    var user = new User();
+        //    repoUser.Setup(x => x.GetById(It.IsAny<int>())).Returns(user);
 
-            var ticketid = 1;
+        //    var ticketid = 1;
+        //    var ticket = new Ticket()
+        //    {
+        //        Numbers = new List<CombinationNumbers>
+        //        {
+        //            new CombinationNumbers { Number = 1 },
+        //            new CombinationNumbers { Number = 2 },
+        //            new CombinationNumbers { Number = 3 },
+        //            new CombinationNumbers { Number = 4 },
+        //            new CombinationNumbers { Number = 5 },
+        //            new CombinationNumbers { Number = 6 },
+        //            new CombinationNumbers { Number = 7 },
+        //            new CombinationNumbers { Number = 8 }
+        //        },
+        //        Player = user,
+        //        Session = new Session(),
+        //        TicketNumbers = "1, 2, 3, 4, 5, 6, 7, 8",
+        //        WinningNumbers = "1, 2, 3, 4",
+        //        WinningNums = 4,
+        //        DateOfCreation = DateTime.Now,
+        //    };
+
+        //    repoTicket.Setup(x => x.GetAll().ToList()
+        //                                .FirstOrDefault(x => x.Id == ticket.Id))
+        //                                .Returns(ticket);
+
+        //    var result = service.DeleteTicket(ticket.Id, user.Id);
+
+        //    Assert.AreEqual(ticket, result);
+        //}
+
+
+
+        [TestMethod]
+        public void GetById_TicketID_Ticket()
+        {
+            // Arrange
+            var userId = 1;
+            var user = new User()
+            {
+                Id =userId,
+            };
+            repoUser.Setup(x => x.GetById(It.IsAny<int>())).Returns(user);
+
+            var ticketId = 1;
             var ticket = new Ticket()
             {
+                Id = ticketId,
                 Player = user,
             };
 
-            var ticketList = new List<Ticket>() { ticket };
+            repoTicket.Setup(x => x.GetAll().Where(x => x.Id == ticket.Id).First()).Returns(ticket);
 
+            // Act
+            var result = service.GetById(ticket.Id, user.Id);
 
-            repoTicket.Setup(x => x.GetAll().ToList()).Returns(ticketList);
-
-            var result = service.DeleteTicket(ticketid, userId);
-
+            // Assert
             Assert.AreEqual(ticket, result);
         }
     }

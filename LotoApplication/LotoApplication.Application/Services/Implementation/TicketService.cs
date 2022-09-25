@@ -148,9 +148,6 @@ namespace LotoApplication.Application.Services.Implementation
                 throw new NotFoundException("There aren't any tickets id for this user id!");
 
             return mapper.Map<TicketDto>(ticket);
-        }
-
-        
-
+        }      
     }
 }
