@@ -1,0 +1,24 @@
+.results{
+    margin-top: 3rem;
+
+    &__todo{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 5rem;        
+
+        &__name{
+            display: inline-flex; 
+            height: 2rem;
+        }
+        
+        &__delete{
+            display: inline-flex; 
+            height: 2rem;
+        }
+    }
+
+    &__todo:hover {
+        background-color: darken($color: #dadada, $amount: 0);
+    }
+}

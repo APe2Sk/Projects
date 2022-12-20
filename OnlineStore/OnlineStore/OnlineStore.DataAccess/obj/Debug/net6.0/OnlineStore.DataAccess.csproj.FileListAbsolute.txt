@@ -1,0 +1,17 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\bin\Debug\net6.0\OnlineStore.DataAccess.deps.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\bin\Debug\net6.0\OnlineStore.DataAccess.runtimeconfig.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\bin\Debug\net6.0\OnlineStore.DataAccess.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\bin\Debug\net6.0\OnlineStore.DataAccess.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\bin\Debug\net6.0\OnlineStore.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\bin\Debug\net6.0\OnlineStore.Domain.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\refint\OnlineStore.DataAccess.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\OnlineStore.DataAccess.genruntimeconfig.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.DataAccess\obj\Debug\net6.0\ref\OnlineStore.DataAccess.dll

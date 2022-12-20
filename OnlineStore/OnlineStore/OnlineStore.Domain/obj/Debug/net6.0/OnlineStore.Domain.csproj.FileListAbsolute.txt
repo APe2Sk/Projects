@@ -1,0 +1,12 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\bin\Debug\net6.0\OnlineStore.Domain.deps.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\bin\Debug\net6.0\OnlineStore.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\bin\Debug\net6.0\OnlineStore.Domain.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\OnlineStore.Domain.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\OnlineStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\OnlineStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\OnlineStore.Domain.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\OnlineStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\OnlineStore.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\refint\OnlineStore.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\OnlineStore.Domain.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.Domain\obj\Debug\net6.0\ref\OnlineStore.Domain.dll

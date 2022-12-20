@@ -1,0 +1,15 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\bin\Debug\net6.0\OnlineStore.ViewModels.deps.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\bin\Debug\net6.0\OnlineStore.ViewModels.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\bin\Debug\net6.0\OnlineStore.ViewModels.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\bin\Debug\net6.0\OnlineStore.Domain.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\bin\Debug\net6.0\OnlineStore.Domain.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\refint\OnlineStore.ViewModels.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\OnlineStore.ViewModels.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\WEB API Homework\Projects\OnlineStore\OnlineStore\OnlineStore.ViewModels\obj\Debug\net6.0\ref\OnlineStore.ViewModels.dll
